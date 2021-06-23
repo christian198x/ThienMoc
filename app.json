@@ -1,0 +1,12 @@
+{
+  "name": "ThienMoc",
+  "displayName": "ThienMoc",
+  "expo": {
+    "name": "ThienMoc",
+    "slug": "ThienMoc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
